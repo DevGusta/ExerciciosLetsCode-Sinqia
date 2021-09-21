@@ -1,11 +1,11 @@
-package Exercicios03;/*
+package ListaTres;/*
 Escreva um programa que lê o nome de 5 pessoas e armazena numa lista de convidados. Ao final, informe qual o
 nome mais longo presente na lista.
 */
 
 import java.util.Scanner;
 
-public class Questao05 {
+public class QuestaoCinco {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] convidados = new String[5];

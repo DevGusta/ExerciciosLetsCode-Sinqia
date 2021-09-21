@@ -1,10 +1,10 @@
-package Exercicios03;/*
+package ListaTres;/*
 Escreva um programa que lê uma palavra e a escreve de volta ao contrário.
  */
 
 import java.util.Scanner;
 
-public class Questao02 {
+public class QuestaoDois {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String palavra;

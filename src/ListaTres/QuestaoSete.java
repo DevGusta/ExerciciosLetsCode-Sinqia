@@ -1,9 +1,9 @@
-package Exercicios03;
+package ListaTres;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Questao07 {
+public class QuestaoSete {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] idades = new int[5];

@@ -1,11 +1,11 @@
-package Exercicios03;/*
+package ListaTres;/*
 Escreva um programa que lê 5 números e informa o maior, o menor e a média deles.
 */
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Questao04 {
+public class QuestaoQuatro {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] numeros = new int[5];

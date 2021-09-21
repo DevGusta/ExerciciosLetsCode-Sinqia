@@ -1,10 +1,10 @@
-package Exercicios03;/*
+package ListaTres;/*
 Escreva um programa que lê 5 números. Ao final, escreva primeiros todos os ímpares, depois todos os pares.
  */
 
 import java.util.Scanner;
 
-public class Questao03 {
+public class QuestaoTres {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] numeros = new int[5];

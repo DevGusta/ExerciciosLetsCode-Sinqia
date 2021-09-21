@@ -1,8 +1,8 @@
-package Exercicios03;
+package ListaTres;
 
 import java.util.Scanner;
 
-public class Questao08 {
+public class QuestaoOito {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double[] pesos = new double[5];

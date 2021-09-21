@@ -1,11 +1,11 @@
-package Exercicios03;/*
+package ListaTres;/*
 Escreva um programa que lê o nome de 5 frutas e armazena num carrinho de compras. Ao final da entrada dos 5
 itens, exiba a lista completa.
  */
 
 import java.util.Scanner;
 
-public class Questao01 {
+public class QuestaoUm {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] carrinhoCompras = new String[5];

@@ -1,10 +1,10 @@
-package Exercicios03;/*
+package ListaTres;/*
 Escreva um programa que lê uma palavra e escreve de volta com os caracteres ímpares em maiúsculo.
 */
 
 import java.util.Scanner;
 
-public class Questao06 {
+public class QuestaoSeis {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String palavra;
